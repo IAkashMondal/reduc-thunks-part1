@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": "typicode"
+    },
+    {
+      "title": "react",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "redux",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "js",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "j",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "ggg",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "lll",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "nnn",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
